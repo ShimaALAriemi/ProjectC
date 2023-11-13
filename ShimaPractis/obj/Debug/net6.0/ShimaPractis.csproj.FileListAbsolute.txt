@@ -1,0 +1,15 @@
+D:\ShimaPractis Solution\ShimaPractis\bin\Debug\net6.0\ShimaPractis.exe
+D:\ShimaPractis Solution\ShimaPractis\bin\Debug\net6.0\ShimaPractis.deps.json
+D:\ShimaPractis Solution\ShimaPractis\bin\Debug\net6.0\ShimaPractis.runtimeconfig.json
+D:\ShimaPractis Solution\ShimaPractis\bin\Debug\net6.0\ShimaPractis.dll
+D:\ShimaPractis Solution\ShimaPractis\bin\Debug\net6.0\ShimaPractis.pdb
+D:\ShimaPractis Solution\ShimaPractis\obj\Debug\net6.0\ShimaPractis.csproj.AssemblyReference.cache
+D:\ShimaPractis Solution\ShimaPractis\obj\Debug\net6.0\ShimaPractis.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShimaPractis Solution\ShimaPractis\obj\Debug\net6.0\ShimaPractis.AssemblyInfoInputs.cache
+D:\ShimaPractis Solution\ShimaPractis\obj\Debug\net6.0\ShimaPractis.AssemblyInfo.cs
+D:\ShimaPractis Solution\ShimaPractis\obj\Debug\net6.0\ShimaPractis.csproj.CoreCompileInputs.cache
+D:\ShimaPractis Solution\ShimaPractis\obj\Debug\net6.0\ShimaPractis.dll
+D:\ShimaPractis Solution\ShimaPractis\obj\Debug\net6.0\refint\ShimaPractis.dll
+D:\ShimaPractis Solution\ShimaPractis\obj\Debug\net6.0\ShimaPractis.pdb
+D:\ShimaPractis Solution\ShimaPractis\obj\Debug\net6.0\ShimaPractis.genruntimeconfig.cache
+D:\ShimaPractis Solution\ShimaPractis\obj\Debug\net6.0\ref\ShimaPractis.dll
